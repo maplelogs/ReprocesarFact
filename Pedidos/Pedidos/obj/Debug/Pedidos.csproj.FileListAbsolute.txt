@@ -1,0 +1,7 @@
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\bin\Debug\Pedidos.exe.config
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\bin\Debug\Pedidos.exe
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.AssemblyReference.cache
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.exe
+C:\Users\Pimie\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.pdb
